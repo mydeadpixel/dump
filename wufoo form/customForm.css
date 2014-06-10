@@ -12,7 +12,6 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}bu
 
 /* ----- Backgrounds ----- */
 html{
-	background-image: url("http://thetinter.net/tourdeitv/assets/img/grey-bg.png");	background-color:#eeeeee;
 	font-size: 80%;
 }
 body {
@@ -27,7 +26,6 @@ body {
 #logo{
 	height:130px;
 	width: 200px;
-	background: url("http://thetinter.net/tourdeitv/assets/img/itv-logo-col.svg") no-repeat;
 	background-size: 100%;
 	margin: 3rem 1rem;
 
